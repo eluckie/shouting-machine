@@ -16,6 +16,8 @@
 
 This is a simple webpage created to explore the basics of collecting information from users via forms, as well as beginner JavaScript practice. Users are able to enter any text they'd like into the input section. When they click the "Shout at me!" button, their text is auto-capitalized and displayed back to them below in the "computer says:" section.
 
+[Click here](https://eluckie.github.io/shouting-machine/) to view the live version of this webpage.
+
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop
